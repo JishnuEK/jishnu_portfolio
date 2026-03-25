@@ -1,44 +1,5 @@
 [
   {
-    "title": "XYLEM - TALENT XLA",
-    "subtitle": "HRMS",
-    "description": [
-      "Developed the front-end using Flutter and Dart, delivering a seamless user experience."
-    ],
-    "points": [
-      "Utilized Get for efficient state management.",
-      "Enhanced performance with lazy loading and data caching, reducing loading times.",
-      "Enabled real-time push notifications using Firebase Cloud Messaging."
-    ],
-    "techStack": [
-      "Flutter",
-      "Dart",
-      "GetX",
-      "Firebase Cloud Messaging"
-    ],
-    "playStoreLink": "https://play.google.com/store/apps/details?id=com.xyleminc.talentxla",
-    "appStoreLink": "https://apps.apple.com/us/app/talent-xla/id123456789"
-  },
-  {
-    "title": "GEOJIT ACE",
-    "subtitle": "HRMS",
-    "description": [
-      "Developed an enterprise-grade HRMS application featuring an integrated Learning Module."
-    ],
-    "points": [
-      "Implemented seamless enterprise authentication using Azure AD Login.",
-      "Integrated stringent security features ensuring full VAPT compliance.",
-      "Developed a dedicated Learning module for employee training and development.",
-      "Utilized GetX for highly efficient state management and routing."
-    ],
-    "techStack": [
-      "Flutter",
-      "Dart",
-      "GetX",
-      "Azure AD"
-    ]
-  },
-  {
     "title": "JOYALUKKAS SKILL HUB",
     "subtitle": "E-Learning Application",
     "description": [
@@ -55,14 +16,55 @@
       "GetX",
       "VAPT Security"
     ],
-    "playStoreLink": "https://play.google.com/store/apps/details?id=com.kalyansilks.hrms",
-    "appStoreLink": "https://apps.apple.com/us/app/kalyan-silks-hrms/id987654321"
+    "playStoreLink": "https://play.google.com/store/apps/details?id=com.joyalukkashr.elearning",
+    "appStoreLink": ""
   },
   {
-    "title": "KALYAN SILKS",
+    "title": "GEOJIT ACE",
     "subtitle": "HRMS",
     "description": [
-      "Contributed to the development of an HRMS application tailored for Kalyan Silks, focusing on enhancing workforce management processes."
+      "Developed an enterprise-grade HRMS application featuring an integrated Learning Module."
+    ],
+    "points": [
+      "Implemented seamless enterprise authentication using Azure AD Login.",
+      "Integrated stringent security features ensuring full VAPT compliance.",
+      "Developed a dedicated Learning module for employee training and development.",
+      "Utilized GetX for highly efficient state management and routing."
+    ],
+    "techStack": [
+      "Azure AD",
+      "Flutter",
+      "Dart",
+      "GetX"
+    ],
+    "appStoreLink": "",
+    "playStoreLink": ""
+  },
+  {
+    "title": "XYLEM - TALENT XLA",
+    "subtitle": "HRMS",
+    "description": [
+      "Developed the front-end using Flutter and Dart, delivering a seamless user experience."
+    ],
+    "points": [
+      "Utilized Get for efficient state management.",
+      "Enhanced performance with lazy loading and data caching, reducing loading times.",
+      "Enabled real-time push notifications using Firebase Cloud Messaging."
+    ],
+    "techStack": [
+      "Flutter",
+      "Dart",
+      "GetX",
+      "Firebase Cloud Messaging"
+    ],
+    "playStoreLink": "https://play.google.com/store/apps/details?id=com.xylem.hrms&hl=en_IN",
+    "appStoreLink": ""
+  },
+  {
+    "title": "SG ESS",
+    "subtitle": "HRMS",
+    "description": [
+      "Contributed to the development of an HRMS application tailored for Gokulum Motors HRMS, focusing on enhancing workforce management processes."
     ],
     "points": [
       "Integrated interactive graphs and charts to display key HR metrics and analytics.",
@@ -74,8 +76,8 @@
       "Dart",
       "Firebase Cloud Messaging"
     ],
-    "playStoreLink": "https://play.google.com/store/apps/details?id=com.kalyansilks.hrms",
-    "appStoreLink": "https://apps.apple.com/us/app/kalyan-silks-hrms/id987654321"
+    "playStoreLink": "https://play.google.com/store/apps/details?id=com.gokulammotorsess.hrms",
+    "appStoreLink": ""
   },
   {
     "title": "KATHIRU",
@@ -90,9 +92,9 @@
     "techStack": [
       "Flutter",
       "Dart",
+      "Bloc",
       "Firebase Cloud Messaging"
-    ],
-    "playStoreLink": "https://play.google.com/store/apps/details?id=com.kathiru.ecommerce"
+    ]
   },
   {
     "title": "POS SYSTEM",

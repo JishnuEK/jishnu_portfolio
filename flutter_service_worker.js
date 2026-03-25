@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "1a2bc0e916229902c3757b45d04f270e",
+const RESOURCES = {"flutter_bootstrap.js": "492ef3dbb01085691f600232a5fba117",
 "version.json": "c420e205d8eac4ccea99913b4a50bfa7",
 "index.html": "3ea4eb6c1793aefe62aa0364635bcf24",
 "/": "3ea4eb6c1793aefe62aa0364635bcf24",
-"main.dart.js": "c5d4d7b29428bd37c71f3ffe09e9b70b",
+"main.dart.js": "7c4b092565b4b6c950bf1239485aa613",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
 "favicon.png": "a66142bfe2932272a278891cbc465ce5",
 "icons/Icon-192.png": "a66142bfe2932272a278891cbc465ce5",
@@ -28,7 +28,7 @@ const RESOURCES = {"flutter_bootstrap.js": "1a2bc0e916229902c3757b45d04f270e",
 "assets/assets/data/footer.json": "d62d8228184a7cbd41fa566425bd6bc6",
 "assets/assets/data/education.json": "959271476fdc0904e53d761a0656ae8f",
 "assets/assets/data/experience.json": "f98611eaf6b3cec1c7edc8c4cdaa0dec",
-"assets/assets/data/projects.json": "6e7bdf4267ef3ef0d9dd1cbf1375fe73",
+"assets/assets/data/projects.json": "9cb230955cf752742df9b983afb5bcd2",
 "assets/assets/data/contact.json": "ce6340fc669ab355eda7cd973f726997",
 "assets/assets/data/about.json": "6b8c37fdc4b2807b34bbaffb64a050fe",
 "assets/assets/data/skills.json": "491b108306f79afe8cbea6ccb29467b7",
