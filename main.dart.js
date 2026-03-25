@@ -65862,7 +65862,7 @@ A.Ut.prototype={
 $0(){var s=0,r=A.O(t.H)
 var $async$$0=A.P(function(a,b){if(a===1)return A.L(b,r)
 while(true)switch(s){case 0:s=2
-return A.R(A.AB(A.f1("assets/resume/ji.pdf",0,null)),$async$$0)
+return A.R(A.AB(A.f1("assets/resume/ji_resume.pdf",0,null)),$async$$0)
 case 2:if(!b)A.AH().$1("Could not launch $url")
 return A.M(null,r)}})
 return A.N($async$$0,r)},
@@ -65898,9 +65898,9 @@ l.push(new A.HF(8,8,k,r))
 l.push(B.dJ)
 k=A.c([],m)
 s=q.f
-if(s!=null&&s!=="")k.push(new A.lX(1,B.hN,new A.zK("View on Google Play Store \u2192",s,B.AZ,r),r))
+if(s!=null&&s!=="")k.push(new A.lX(1,B.hN,new A.zK("View on Google Play Store",s,B.AZ,r),r))
 s=q.r
-if(s!=null&&s!=="")B.b.J(k,A.c([B.IU,new A.lX(1,B.hN,new A.zK("View on App Store \u2192",s,B.B2,r),r)],m))
+if(s!=null&&s!=="")B.b.J(k,A.c([B.IU,new A.lX(1,B.hN,new A.zK("View on App Store",s,B.B2,r),r)],m))
 l.push(A.ky(k,B.ak,B.be))
 return A.cl(r,A.fL(l,B.a7,B.ah),B.p,r,r,new A.c4(B.aC,r,o,p,n,r,B.af),r,r,r,r,B.Al,r,r,r)},
 $S:67}
