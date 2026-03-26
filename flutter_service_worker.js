@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "aeeea6ef6b87e7c1d6c3ff2d7e36ba96",
+const RESOURCES = {"flutter_bootstrap.js": "6412df1a3ab87200a5124f47a60e602b",
 "version.json": "c420e205d8eac4ccea99913b4a50bfa7",
 "index.html": "3ea4eb6c1793aefe62aa0364635bcf24",
 "/": "3ea4eb6c1793aefe62aa0364635bcf24",
@@ -30,7 +30,7 @@ const RESOURCES = {"flutter_bootstrap.js": "aeeea6ef6b87e7c1d6c3ff2d7e36ba96",
 "assets/assets/data/education.json": "959271476fdc0904e53d761a0656ae8f",
 "assets/assets/data/projects%2520copy.json": "4c9a14744877a07ea765cad5eeced375",
 "assets/assets/data/experience.json": "f98611eaf6b3cec1c7edc8c4cdaa0dec",
-"assets/assets/data/projects.json": "94498dfb8b0595374aa3a2635522142a",
+"assets/assets/data/projects.json": "43dd794f856da68c84b911efb3f3dd4f",
 "assets/assets/data/contact.json": "ce6340fc669ab355eda7cd973f726997",
 "assets/assets/data/about.json": "f716570baba2d9f26c58d6773be0ef11",
 "assets/assets/data/skills.json": "491b108306f79afe8cbea6ccb29467b7",

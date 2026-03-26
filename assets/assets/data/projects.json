@@ -1,5 +1,26 @@
 [
   {
+    "title": "XYLEM - TALENT XLA",
+    "subtitle": "HRMS",
+    "client": "Xylem Learning",
+    "description": [
+      "Developed the front-end using Flutter and Dart, delivering a seamless user experience."
+    ],
+    "points": [
+      "Utilized Get for efficient state management.",
+      "Enhanced performance with lazy loading and data caching, reducing loading times.",
+      "Enabled real-time push notifications using Firebase Cloud Messaging."
+    ],
+    "techStack": [
+      "Flutter",
+      "Dart",
+      "GetX",
+      "Firebase Cloud Messaging"
+    ],
+    "playStoreLink": "https://play.google.com/store/apps/details?id=com.xylem.hrms&hl=en_IN",
+    "appStoreLink": "https://apps.apple.com/in/app/talent-xla/id6453693518"
+  },
+  {
     "title": "GEOJIT ACE",
     "subtitle": "HRMS",
     "client": "Geojit Financial Services",
@@ -24,27 +45,6 @@
     ],
     "appStoreLink": "",
     "playStoreLink": ""
-  },
-  {
-    "title": "XYLEM - TALENT XLA",
-    "subtitle": "HRMS",
-    "client": "Xylem Learning",
-    "description": [
-      "Developed the front-end using Flutter and Dart, delivering a seamless user experience."
-    ],
-    "points": [
-      "Utilized Get for efficient state management.",
-      "Enhanced performance with lazy loading and data caching, reducing loading times.",
-      "Enabled real-time push notifications using Firebase Cloud Messaging."
-    ],
-    "techStack": [
-      "Flutter",
-      "Dart",
-      "GetX",
-      "Firebase Cloud Messaging"
-    ],
-    "playStoreLink": "https://play.google.com/store/apps/details?id=com.xylem.hrms&hl=en_IN",
-    "appStoreLink": "https://apps.apple.com/in/app/talent-xla/id6453693518"
   },
   {
     "title": "N-MIS",
