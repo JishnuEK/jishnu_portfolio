@@ -66014,7 +66014,7 @@ $S:35}
 A.Uv.prototype={
 $0(){var s=0,r=A.O(t.H),q
 var $async$$0=A.P(function(a,b){if(a===1)return A.L(b,r)
-while(true)switch(s){case 0:q=A.auG().X("assets/resume/ji_resume.pdf")
+while(true)switch(s){case 0:q=A.auG().X("assets/assets/resume/ji_resume.pdf")
 s=2
 return A.R(A.AF(q),$async$$0)
 case 2:if(!b)A.AL().$1("Could not launch "+q.k(0))
