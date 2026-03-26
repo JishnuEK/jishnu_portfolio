@@ -1,5 +1,26 @@
 [
   {
+    "title": "JOYALUKKAS SKILL HUB",
+    "subtitle": "E-Learning Application",
+    "client": "Joyalukkas",
+    "description": [
+      "Developed a comprehensive e-learning platform enabling users to access courses, study materials, lessons, and conduct tests."
+    ],
+    "points": [
+      "Built a robust testing and assessment module for continuous learning evaluation.",
+      "Implemented stringent security features, successfully passing VAPT compliance.",
+      "Utilized GetX for highly efficient reactive state management and routing."
+    ],
+    "techStack": [
+      "Flutter",
+      "Dart",
+      "GetX",
+      "VAPT Security"
+    ],
+    "playStoreLink": "https://play.google.com/store/apps/details?id=com.joyalukkashr.elearning",
+    "appStoreLink": ""
+  },
+  {
     "title": "GEOJIT ACE",
     "subtitle": "HRMS",
     "client": "Geojit Financial Services",
