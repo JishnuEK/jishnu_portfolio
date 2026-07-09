@@ -1,11 +1,11 @@
 {
-    "name": "Jishnu E K | Portfolio",
-    "short_name": "Jishnu Portfolio",
+    "name": "flutter_portfolio",
+    "short_name": "flutter_portfolio",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0B0F19",
-    "theme_color": "#0B0F19",
-    "description": "Professional Flutter Developer Portfolio for Jishnu E K.",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
