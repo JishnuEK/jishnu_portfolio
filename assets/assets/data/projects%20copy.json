@@ -1,24 +1,24 @@
 [
   {
-    "title": "XYLEM - TALENT XLA",
-    "subtitle": "HRMS",
-    "client": "Xylem Learning",
+    "title": "JOYALUKKAS SKILL HUB",
+    "subtitle": "E-Learning Application",
+    "client": "Joyalukkas",
     "description": [
-      "Developed the front-end using Flutter and Dart, delivering a seamless user experience."
+      "Developed a comprehensive e-learning platform enabling users to access courses, study materials, lessons, and conduct tests."
     ],
     "points": [
-      "Utilized Get for efficient state management.",
-      "Enhanced performance with lazy loading and data caching, reducing loading times.",
-      "Enabled real-time push notifications using Firebase Cloud Messaging."
+      "Built a robust testing and assessment module for continuous learning evaluation.",
+      "Implemented stringent security features, successfully passing VAPT compliance.",
+      "Utilized GetX for highly efficient reactive state management and routing."
     ],
     "techStack": [
       "Flutter",
       "Dart",
       "GetX",
-      "Firebase Cloud Messaging"
+      "VAPT Security"
     ],
-    "playStoreLink": "https://play.google.com/store/apps/details?id=com.xylem.hrms&hl=en_IN",
-    "appStoreLink": "https://apps.apple.com/in/app/talent-xla/id6453693518"
+    "playStoreLink": "https://play.google.com/store/apps/details?id=com.joyalukkashr.elearning",
+    "appStoreLink": ""
   },
   {
     "title": "GEOJIT ACE",
@@ -45,6 +45,27 @@
     ],
     "appStoreLink": "",
     "playStoreLink": ""
+  },
+  {
+    "title": "XYLEM - TALENT XLA",
+    "subtitle": "HRMS",
+    "client": "Xylem Learning",
+    "description": [
+      "Developed the front-end using Flutter and Dart, delivering a seamless user experience."
+    ],
+    "points": [
+      "Utilized Get for efficient state management.",
+      "Enhanced performance with lazy loading and data caching, reducing loading times.",
+      "Enabled real-time push notifications using Firebase Cloud Messaging."
+    ],
+    "techStack": [
+      "Flutter",
+      "Dart",
+      "GetX",
+      "Firebase Cloud Messaging"
+    ],
+    "playStoreLink": "https://play.google.com/store/apps/details?id=com.xylem.hrms&hl=en_IN",
+    "appStoreLink": "https://apps.apple.com/in/app/talent-xla/id6453693518"
   },
   {
     "title": "N-MIS",

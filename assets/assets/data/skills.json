@@ -1,10 +1,10 @@
 [
   "Flutter",
   "Dart",
-  "Clean Architecture (MVC, MVVM)",
+  "Clean Architecture, MVC",
   "GetX",
   "BLoC",
-  "Azure App Services",
+  "Azure AD Services",
   "Firebase (FCM, Analytics)",
   "REST API Integration",
   "CI/CD (GitHub Actions, Codemagic)",

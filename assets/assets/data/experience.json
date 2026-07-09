@@ -5,7 +5,7 @@
     "duration": "2022 - Present",
     "description": [
       "Engineered 30+ high-performance cross-platform applications using Flutter and Dart, ensuring 99.9% crash-free sessions.",
-      "Implemented Azure-based backend integrations and established CI/CD pipelines (GitHub Actions) to automate testing and deployment, reducing release cycles by 40%.",
+      "Implemented Azure AD integrations, and established CI/CD pipelines (GitHub Actions & Codemagic) to automate testing and deployment, reducing release cycles by 40%.",
       "Mentored a team of junior developers, conducting rigorous code reviews and maintaining high standards for code maintainability and documentation.",
       "Resolved critical bottlenecks and memory leaks, significantly improving app speed and user retention rates.",
       "Utilized Firebase and Google Analytics to drive data-informed UI/UX improvements."
