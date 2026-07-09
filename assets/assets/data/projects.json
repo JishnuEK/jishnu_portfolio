@@ -2,7 +2,6 @@
   {
     "title": "XYLEM - TALENT XLA",
     "subtitle": "HRMS",
-    "client": "Xylem Learning",
     "description": [
       "Developed the front-end using Flutter and Dart, delivering a seamless user experience."
     ],
@@ -17,83 +16,53 @@
       "GetX",
       "Firebase Cloud Messaging"
     ],
-    "playStoreLink": "https://play.google.com/store/apps/details?id=com.xylem.hrms&hl=en_IN",
-    "appStoreLink": "https://apps.apple.com/in/app/talent-xla/id6453693518"
+    "playStoreLink": "https://play.google.com/store/apps/details?id=com.xyleminc.talentxla",
+    "appStoreLink": "https://apps.apple.com/us/app/talent-xla/id123456789"
   },
   {
     "title": "GEOJIT ACE",
     "subtitle": "HRMS",
-    "client": "Geojit Financial Services",
     "description": [
       "Developed an enterprise-grade HRMS application featuring an integrated Learning Module."
     ],
     "points": [
       "Implemented seamless enterprise authentication using Azure AD Login.",
       "Integrated stringent security features ensuring full VAPT compliance.",
-      "Implemented seamless punching and attendance tracking functionalities.",
-      "Engineered precise location-based attendance tracking using Google Cloud Maps API, featuring advanced geofencing validation for punch-ins.",
       "Developed a dedicated Learning module for employee training and development.",
       "Utilized GetX for highly efficient state management and routing."
     ],
     "techStack": [
-      "Azure AD",
       "Flutter",
       "Dart",
       "GetX",
-      "Google Cloud",
-      "Maps API"
-    ],
-    "appStoreLink": "",
-    "playStoreLink": ""
+      "Azure AD"
+    ]
   },
   {
-    "title": "N-MIS",
-    "subtitle": "MIS Application",
-    "client": "Morickap Group",
+    "title": "JOYALUKKAS SKILL HUB",
+    "subtitle": "E-Learning Application",
     "description": [
-      "Developed an application tracking sales and investment for Morickap Group users."
+      "Developed a comprehensive e-learning platform enabling users to access courses, study materials, lessons, and conduct tests."
     ],
     "points": [
-      "Implemented comprehensive sales and investment tracking modules.",
-      "Designed specifically for Morickap Group company's users to manage enterprise data securely."
-    ],
-    "techStack": [
-      "Flutter",
-      "Dart",
-      "Bloc"
-    ],
-    "playStoreLink": "https://play.google.com/store/apps/details?id=com.mis.nishka",
-    "appStoreLink": "https://apps.apple.com/in/app/n-mis/id6752844415"
-  },
-  {
-    "title": "Bhima HRConnect",
-    "subtitle": "HRMS",
-    "client": "Bhima Jewellers",
-    "description": [
-      "Developed a comprehensive HRMS application for managing workforce effectively."
-    ],
-    "points": [
-      "Implemented seamless punching and attendance tracking functionalities.",
-      "Engineered precise location-based attendance tracking using Google Cloud Maps API, featuring advanced geofencing validation for punch-ins.",
-      "Integrated modules for salary management and employee regularizations.",
-      "Ensured a smooth user experience tailored for enterprise resource planning."
+      "Built a robust testing and assessment module for continuous learning evaluation.",
+      "Implemented stringent security features, successfully passing VAPT compliance.",
+      "Utilized GetX for highly efficient reactive state management and routing."
     ],
     "techStack": [
       "Flutter",
       "Dart",
       "GetX",
-      "Google Cloud",
-      "Maps API"
+      "VAPT Security"
     ],
-    "playStoreLink": "https://play.google.com/store/apps/details?id=com.bhima.hrms",
-    "appStoreLink": "https://apps.apple.com/in/app/bhima-hrconnect/id6751399843"
+    "playStoreLink": "https://play.google.com/store/apps/details?id=com.kalyansilks.hrms",
+    "appStoreLink": "https://apps.apple.com/us/app/kalyan-silks-hrms/id987654321"
   },
   {
-    "title": "SG ESS",
+    "title": "KALYAN SILKS",
     "subtitle": "HRMS",
-    "client": "Gokulam Motors",
     "description": [
-      "Contributed to the development of an HRMS application tailored for Gokulum Motors HRMS, focusing on enhancing workforce management processes."
+      "Contributed to the development of an HRMS application tailored for Kalyan Silks, focusing on enhancing workforce management processes."
     ],
     "points": [
       "Integrated interactive graphs and charts to display key HR metrics and analytics.",
@@ -105,13 +74,12 @@
       "Dart",
       "Firebase Cloud Messaging"
     ],
-    "playStoreLink": "https://play.google.com/store/apps/details?id=com.gokulammotorsess.hrms",
-    "appStoreLink": "https://apps.apple.com/in/app/sg-ess/id6504002186"
+    "playStoreLink": "https://play.google.com/store/apps/details?id=com.kalyansilks.hrms",
+    "appStoreLink": "https://apps.apple.com/us/app/kalyan-silks-hrms/id987654321"
   },
   {
     "title": "KATHIRU",
     "subtitle": "Ecommerce Application",
-    "client": "Techtern",
     "description": [
       "Developed a product ordering application using Flutter Framework."
     ],
@@ -122,26 +90,23 @@
     "techStack": [
       "Flutter",
       "Dart",
-      "Bloc",
       "Firebase Cloud Messaging"
-    ]
+    ],
+    "playStoreLink": "https://play.google.com/store/apps/details?id=com.kathiru.ecommerce"
   },
   {
     "title": "POS SYSTEM",
     "subtitle": "Desktop POS",
-    "client": "Techtern",
     "description": [
       "Developed a cross-platform POS application using Flutter, optimized for Windows desktop."
     ],
     "points": [
-      "Implemented real-time sales analytics, inventory management, and customer data tracking.",
-      "Integrated a barcode reading feature to seamlessly add items to the product list and accelerate checkout."
+      "Implemented real-time sales analytics, inventory management, and customer data tracking."
     ],
     "techStack": [
       "Flutter",
       "Dart",
-      "Windows",
-      "Barcode Scanner"
+      "Windows"
     ]
   }
 ]
