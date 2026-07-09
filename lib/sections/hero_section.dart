@@ -116,7 +116,9 @@ class HeroSection extends StatelessWidget {
                               elevation: 0,
                             ),
                             onPressed: () async {
-                              final url = Uri.parse('assets/resume/ji.pdf');
+                              final url = Uri.base.resolve(
+                                '/assets/resume/ji.pdf',
+                              );
 
                               if (!await launchUrl(url)) {
                                 debugPrint('Could not launch \$url');
