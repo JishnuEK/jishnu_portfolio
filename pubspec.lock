@@ -297,7 +297,7 @@ packages:
     source: hosted
     version: "2.3.0"
   peanut:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: peanut
       sha256: "82f85e67a6f8bfea1516e7e3e69eb9cc6963ef02f7b35540027b4335d35988f9"
