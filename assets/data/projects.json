@@ -1,5 +1,23 @@
 [
   {
+    "title": "M-Rise",
+    "subtitle": "DMS (Dealership Management System)",
+    "description": [
+      "Developed a multi-role Flutter application for vehicle service management supporting technicians, service advisors, managers, drivers, and security users, with role-based access control (RBAC) and real-time status tracking across the service lifecycle."
+    ],
+    "points": [
+      "Integrated Google ML Kit for OCR (image-to-text recognition)",
+      "QR code scanning,GPS location tracking to streamline vehicle check-in, document capture, and service workflows."
+    ],
+    "techStack": [
+      "Riverpod",
+      "Flutter",
+      "Dart",
+      "Firebase Cloud Messaging"
+    ],
+    "playStoreLink": "https://play.google.com/store/apps/details?id=com.mandovimotorsapp.dms"
+  },
+  {
     "title": "XYLEM - TALENT XLA",
     "subtitle": "HRMS",
     "description": [
